@@ -1,6 +1,6 @@
 cask "Rustle" do
   version "1.0.0"
-  sha256 "061d61c87d11298ba15c1579651a0e2a728aadb1334d1c4c905b5f0edafae858"
+  sha256 "25d586157411ac5924dcfb3dbfb71e41dc5343a9d113863be9ca834e71aaeb78"
 
   url "https://github.com/rbc33/Rustle/releases/download/v#{version}/Rustle.dmg"
   name "Rustl"
